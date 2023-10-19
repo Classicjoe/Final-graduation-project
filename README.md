@@ -94,8 +94,7 @@ a) Which customer returned items and what segment do they belong
 b) Who are the most valuable customers and what do they purchase?
 nalysis.
 
-
-![Global Super store Dashboard](https://github.com/Classicjoe/Final-graduation-project/assets/99108333/dfdf8978-4661-486e-850e-e9af989bd5a9)
+![Project Dashbord](https://github.com/Classicjoe/Final-graduation-project/assets/99108333/a686d62a-9609-4664-a9d7-1b8e77845265)
 
 
 ## Data Analytics
