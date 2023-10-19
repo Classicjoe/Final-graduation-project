@@ -4,12 +4,14 @@
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Tools Used](#tools-used)
-- [Data Cleaning and Preparation](#data-cleaning-preparation)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploration Data Analysis](#exploration-data-analysis)
 - [Data Analytics](#data-analytics)
 - [Result/ Findings](#result-findings)
 - [Recommendation](#recommendation)
 - [Limitations](#limitations)
+
+
 ## Project Overview
 Global Superstore is a global online retailer based in New York, boasting a broad
 product catalogue and aiming to be a one-stop-shop for its customers. Global
@@ -42,7 +44,7 @@ In the initail data preparation phase, i performed the following tasks.
 
 3.	Data cleaning and formatting.
 
-## Exploration Data Analysis (EDA)
+## Exploration Data Analysis
 
 Question 1.
 
@@ -477,11 +479,10 @@ thus their average profit above other top cities.
 - Implement a customer segmentation strategy to terget high LTV customers efffectively.
 
 
-## Limitations.
+## Limitations
 
 - Had to change the file type, date etc to load into PostgreSQL
-- Loaded the data into SQl in three parts. Orders, people, Return
-- for my analysis to correspond.
+- Loaded the data into SQl in three parts. Orders, people, Return for my analysis to correspond.
 - filterd out some columns but even then we can still see that there is a positive correlation between the tables.
 - During my anaylisw i created seperate tables to eneble me solve some cases.
 - During report on Power Bi i connected these several tables through data modeling.
