@@ -92,6 +92,10 @@ a) Which customer returned items and what segment do they belong
 b) Who are the most valuable customers and what do they purchase?
 nalysis.
 
+
+![Global Super store Dashboard](https://github.com/Classicjoe/Final-graduation-project/assets/99108333/dfdf8978-4661-486e-850e-e9af989bd5a9)
+
+
 ## Data Analytics
 ``` SQL
 SELECT country, SUM(profit) AS Total_profit
@@ -478,9 +482,9 @@ thus their average profit above other top cities.
 - Had to change the file type, date etc to load into PostgreSQL
 - Loaded the data into SQl in three parts. Orders, people, Return
 - for my analysis to correspond.
-- filterd out some columns but even then we can still see that there is a positive correlation betwwen the tables.
-- During my anaylis i created seperate tables to eneble me solve some casese.
-- During report on my Bi i connected these several tables through data modeling.
+- filterd out some columns but even then we can still see that there is a positive correlation between the tables.
+- During my anaylisw i created seperate tables to eneble me solve some cases.
+- During report on Power Bi i connected these several tables through data modeling.
 
 
 
